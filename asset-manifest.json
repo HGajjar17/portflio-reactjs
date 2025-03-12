@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portflio-reactjs/static/css/main.fa7d76ae.css",
-    "main.js": "/portflio-reactjs/static/js/main.33310e92.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portflio-reactjs/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/portflio-reactjs/index.html",
-    "main.fa7d76ae.css.map": "/portflio-reactjs/static/css/main.fa7d76ae.css.map",
-    "main.33310e92.js.map": "/portflio-reactjs/static/js/main.33310e92.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portflio-reactjs/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portflio-reactjs/src/index.js/static/css/main.fa7d76ae.css",
+    "main.js": "/portflio-reactjs/src/index.js/static/js/main.5ef71d9c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portflio-reactjs/src/index.js/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/portflio-reactjs/src/index.js/index.html",
+    "main.fa7d76ae.css.map": "/portflio-reactjs/src/index.js/static/css/main.fa7d76ae.css.map",
+    "main.5ef71d9c.js.map": "/portflio-reactjs/src/index.js/static/js/main.5ef71d9c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portflio-reactjs/src/index.js/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa7d76ae.css",
-    "static/js/main.33310e92.js"
+    "static/js/main.5ef71d9c.js"
   ]
 }
