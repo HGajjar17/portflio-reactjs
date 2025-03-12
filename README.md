@@ -1,22 +1,6 @@
-# Reactfolio V1.2 👩🏽‍🚀
+# Portflio V1.1 👩🏽‍🚀
 
-Reactfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
-
-<center>
-<img src="https://cdn.tharindu.dev/reactfolio.jpg" alt="Reactfolio" />
-</center>
-
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
-
--   [Features](#-features)
--   [Getting started](#-getting-started)
--   [Installation and Setup Instructions](#-installation-and-setup-instructions)
--   [Folder structure](#-folder-structure)
--   [Configurations](#-configurations)
--   [Google Analytics](#-google-analytics)
--   [Building the React App](#-building-the-react-app)
--   [FAQ](#-faq)
--   [Contribution](#-contribution)
+Portflio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
 
 ## 📙 Features
 
@@ -203,9 +187,3 @@ If you are using Apache as your web server, you can insert this into your .htacc
   RewriteRule . /index.html [L]
 </IfModule>
 ```
-
-## 🌱 Contribution
-
-If you have any suggestions on what to improve in Reactfolio and would like to share them, feel free to leave an issue or fork project to implement your own ideas
-#   p o r t f l i o - r e a c t j s  
- 
